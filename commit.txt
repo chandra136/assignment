@@ -1,6 +1,6 @@
-saichandra
-nainsi
-priya
-praveen
+Devops Assignment-1
 
-group18 assignment devops
+Hi, I am Saichandra N, studying Mtech from Bits Wilp. currently in 3rd semester. This is regarding devops assignment -1, doing in Git for editing/ creating files.
+
+Thank you,
+Saichandra
